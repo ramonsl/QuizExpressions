@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Quiz de Expressoes EN </string>
+    <string name="app_certo">Icone de respostas correta</string>
+    <string name="app__errado">Icone de resposta errada</string>
+    <string name="app__pergunta">Icone de pergunta</string>
+    <string name="app__enviar">Avaliar</string>
+    <string name="app__valida">Todos os campos sao obrigatorios</string>
+    <string name="app__tradu">Campo pra digitar a tradução</string>
+
+
+
+    <string name="question_1">Para expressar a frase \"Pelo amor de Deus!\" em inglês podemos usar:</string>
+    <string name="question1_A" translatable="false">For goodness’ sake!</string>
+    <string name="question1_B" translatable="false">Never heard of</string>
+    <string name="question1_C" translatable="false">As good as it gets</string>
+
+
+    <string name="question_2">Para expressar a frase \" Não ter a menor ideia\" em inglês podemos usar:</string>
+    <string name="question2_A" translatable="false">For goodness’ sake!</string>
+    <string name="question2_B" translatable="false">Never heard of</string>
+    <string name="question2_C" translatable="false">To have no clue </string>
+
+
+
+    <string name="question_3">A Expressão \" It is high time!\" em portugues pode representar:</string>
+    <string name="question3_A" translatable="false">Já estava na hora!</string>
+    <string name="question3_B" translatable="false">Até que fim!</string>
+    <string name="question3_C" translatable="false">Na mosca! </string>
+
+
+
+    <string name="question_4">Traduza a expressão para o portugues \" Right in the bull’s eyes! \":</string>
+    <string name="question4_A" translatable="false">Na mosca!</string>
+
+    <string name="question_5">Traduza a expressão para o ingles \" Salvo pelo gongo\" </string>
+    <string name="question5_A" translatable="false">Saved by the bell</string>
+    <string name="score1">Você obteve um desepenho ruim com apenas</string>
+    <string name="score2">Você obteve um desepenho bom com </string>
+    <string name="score3">Você obteve um desepenho otimo</string>
+    <string name="score1a">Estude mais</string>
+    <string name="score2a">Continue estudando</string>
+    <string name="score3a">acertos. Parabéns!</string>
+
+
+
+
+</resources>
+
+
